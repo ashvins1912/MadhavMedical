@@ -4,7 +4,7 @@
     "name": "Paracetamol 650mg (15 Tablets)",
     "price": 30,
     "category": "Medicines",
-    "image": "images/paracetamol.jpg",
+    "image": "images/paracetamol.jpeg",
     "stock": 100
   },
   {
@@ -12,7 +12,7 @@
     "name": "Digital Thermometer",
     "price": 249,
     "category": "Medical Devices",
-    "image": "images/thermometer.jpg",
+    "image": "images/thermometer.jpeg",
     "stock": 50
   },
   {
@@ -20,7 +20,7 @@
     "name": "Waterproof Bandages (Box of 20)",
     "price": 45,
     "category": "First Aid",
-    "image": "images/bandage.jpg",
+    "image": "images/bandage.jpeg",
     "stock": 75
   },
   {
@@ -28,7 +28,7 @@
     "name": "Vitamin C Chewable (30 Tablets)",
     "price": 120,
     "category": "Wellness",
-    "image": "images/vitamin_c.jpg",
+    "image": "images/vitaminc.jpeg",
     "stock": 60
   }
 ]
